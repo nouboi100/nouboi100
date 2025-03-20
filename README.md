@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img align="center" src="https://media.tenor.com/h-t5fuPwQF0AAAAM/pikachu-pokemon.gif"/>
+</div><br>
 
-<!--
-**nouboi100/nouboi100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="line-height: 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=ff0&center=true&vCenter=true&width=800&lines=wsg+gng+my+name+jes">
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouboi100&layout=pie&hide=dockerfile,shell,vba,php,vim%20script,blade,ruby,VCL,Lua&langs_count=6&hide_border=true&theme=dark" width="338px" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nouboi100&theme=dark&show_icons=true">
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&title=-Issues,-PullRequest" />
+  </a>
+</div>
